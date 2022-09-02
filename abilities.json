@@ -1,0 +1,1596 @@
+{
+	"table": "Abilities",
+	"rows":
+	[
+		{
+			"generationid": 3,
+			"abilityid": 6,
+			"abilityname": "Air Lock"
+		},
+		{
+			"generationid": 3,
+			"abilityid": 11,
+			"abilityname": "Arena Trap"
+		},
+		{
+			"generationid": 3,
+			"abilityid": 16,
+			"abilityname": "Battle Armor"
+		},
+		{
+			"generationid": 3,
+			"abilityid": 21,
+			"abilityname": "Blaze"
+		},
+		{
+			"generationid": 3,
+			"abilityid": 25,
+			"abilityname": "Chlorophyll"
+		},
+		{
+			"generationid": 3,
+			"abilityid": 26,
+			"abilityname": "Clear Body"
+		},
+		{
+			"generationid": 3,
+			"abilityid": 322,
+			"abilityname": "Cloud Nine"
+		},
+		{
+			"generationid": 3,
+			"abilityid": 27,
+			"abilityname": "Color Change"
+		},
+		{
+			"generationid": 3,
+			"abilityid": 30,
+			"abilityname": "Compound Eyes"
+		},
+		{
+			"generationid": 3,
+			"abilityid": 34,
+			"abilityname": "Cute Charm"
+		},
+		{
+			"generationid": 3,
+			"abilityid": 36,
+			"abilityname": "Damp"
+		},
+		{
+			"generationid": 3,
+			"abilityid": 47,
+			"abilityname": "Drizzle"
+		},
+		{
+			"generationid": 3,
+			"abilityid": 48,
+			"abilityname": "Drought"
+		},
+		{
+			"generationid": 3,
+			"abilityid": 50,
+			"abilityname": "Early Bird"
+		},
+		{
+			"generationid": 3,
+			"abilityid": 51,
+			"abilityname": "Effect Spore"
+		},
+		{
+			"generationid": 3,
+			"abilityid": 57,
+			"abilityname": "Flame Body"
+		},
+		{
+			"generationid": 3,
+			"abilityid": 60,
+			"abilityname": "Flash Fire"
+		},
+		{
+			"generationid": 3,
+			"abilityid": 65,
+			"abilityname": "Forecast"
+		},
+		{
+			"generationid": 3,
+			"abilityid": 78,
+			"abilityname": "Guts"
+		},
+		{
+			"generationid": 3,
+			"abilityid": 84,
+			"abilityname": "Huge Power"
+		},
+		{
+			"generationid": 3,
+			"abilityid": 85,
+			"abilityname": "Hustle"
+		},
+		{
+			"generationid": 3,
+			"abilityid": 87,
+			"abilityname": "Hyper Cutter"
+		},
+		{
+			"generationid": 3,
+			"abilityid": 89,
+			"abilityname": "Illuminate"
+		},
+		{
+			"generationid": 3,
+			"abilityid": 91,
+			"abilityname": "Immunity"
+		},
+		{
+			"generationid": 3,
+			"abilityid": 97,
+			"abilityname": "Inner Focus"
+		},
+		{
+			"generationid": 3,
+			"abilityid": 98,
+			"abilityname": "Insomnia"
+		},
+		{
+			"generationid": 3,
+			"abilityid": 99,
+			"abilityname": "Intimidate"
+		},
+		{
+			"generationid": 3,
+			"abilityid": 102,
+			"abilityname": "Keen Eye"
+		},
+		{
+			"generationid": 3,
+			"abilityid": 107,
+			"abilityname": "Levitate"
+		},
+		{
+			"generationid": 3,
+			"abilityid": 111,
+			"abilityname": "Lightning Rod"
+		},
+		{
+			"generationid": 3,
+			"abilityid": 114,
+			"abilityname": "Limber"
+		},
+		{
+			"generationid": 3,
+			"abilityid": 115,
+			"abilityname": "Liquid Ooze"
+		},
+		{
+			"generationid": 3,
+			"abilityid": 122,
+			"abilityname": "Magma Armor"
+		},
+		{
+			"generationid": 3,
+			"abilityid": 123,
+			"abilityname": "Magnet Pull"
+		},
+		{
+			"generationid": 3,
+			"abilityid": 124,
+			"abilityname": "Marvel Scale"
+		},
+		{
+			"generationid": 3,
+			"abilityid": 127,
+			"abilityname": "Minus"
+		},
+		{
+			"generationid": 3,
+			"abilityid": 140,
+			"abilityname": "Natural Cure"
+		},
+		{
+			"generationid": 3,
+			"abilityid": 145,
+			"abilityname": "Oblivious"
+		},
+		{
+			"generationid": 3,
+			"abilityid": 149,
+			"abilityname": "Overgrow"
+		},
+		{
+			"generationid": 3,
+			"abilityid": 151,
+			"abilityname": "Own Tempo"
+		},
+		{
+			"generationid": 3,
+			"abilityid": 156,
+			"abilityname": "Pickup"
+		},
+		{
+			"generationid": 3,
+			"abilityid": 160,
+			"abilityname": "Plus"
+		},
+		{
+			"generationid": 3,
+			"abilityid": 164,
+			"abilityname": "Poison Point"
+		},
+		{
+			"generationid": 3,
+			"abilityid": 171,
+			"abilityname": "Pressure"
+		},
+		{
+			"generationid": 3,
+			"abilityid": 345,
+			"abilityname": "Pure Power"
+		},
+		{
+			"generationid": 3,
+			"abilityid": 177,
+			"abilityname": "Rain Dish"
+		},
+		{
+			"generationid": 3,
+			"abilityid": 186,
+			"abilityname": "Rock Head"
+		},
+		{
+			"generationid": 3,
+			"abilityid": 187,
+			"abilityname": "Rough Skin"
+		},
+		{
+			"generationid": 3,
+			"abilityid": 189,
+			"abilityname": "Run Away"
+		},
+		{
+			"generationid": 3,
+			"abilityid": 192,
+			"abilityname": "Sand Stream"
+		},
+		{
+			"generationid": 3,
+			"abilityid": 193,
+			"abilityname": "Sand Veil"
+		},
+		{
+			"generationid": 3,
+			"abilityid": 197,
+			"abilityname": "Serene Grace"
+		},
+		{
+			"generationid": 3,
+			"abilityid": 198,
+			"abilityname": "Shadow Tag"
+		},
+		{
+			"generationid": 3,
+			"abilityid": 200,
+			"abilityname": "Shed Skin"
+		},
+		{
+			"generationid": 3,
+			"abilityid": 353,
+			"abilityname": "Shell Armor"
+		},
+		{
+			"generationid": 3,
+			"abilityid": 202,
+			"abilityname": "Shield Dust"
+		},
+		{
+			"generationid": 3,
+			"abilityid": 214,
+			"abilityname": "Soundproof"
+		},
+		{
+			"generationid": 3,
+			"abilityid": 216,
+			"abilityname": "Speed Boost"
+		},
+		{
+			"generationid": 3,
+			"abilityid": 221,
+			"abilityname": "Static"
+		},
+		{
+			"generationid": 3,
+			"abilityid": 225,
+			"abilityname": "Stench"
+		},
+		{
+			"generationid": 3,
+			"abilityid": 227,
+			"abilityname": "Sticky Hold"
+		},
+		{
+			"generationid": 3,
+			"abilityid": 231,
+			"abilityname": "Sturdy"
+		},
+		{
+			"generationid": 3,
+			"abilityid": 233,
+			"abilityname": "Suction Cups"
+		},
+		{
+			"generationid": 3,
+			"abilityid": 236,
+			"abilityname": "Swarm"
+		},
+		{
+			"generationid": 3,
+			"abilityid": 239,
+			"abilityname": "Swift Swim"
+		},
+		{
+			"generationid": 3,
+			"abilityid": 241,
+			"abilityname": "Synchronize"
+		},
+		{
+			"generationid": 3,
+			"abilityid": 245,
+			"abilityname": "Thick Fat"
+		},
+		{
+			"generationid": 3,
+			"abilityid": 248,
+			"abilityname": "Torrent"
+		},
+		{
+			"generationid": 3,
+			"abilityid": 252,
+			"abilityname": "Trace"
+		},
+		{
+			"generationid": 3,
+			"abilityid": 254,
+			"abilityname": "Truant"
+		},
+		{
+			"generationid": 3,
+			"abilityid": 362,
+			"abilityname": "Vital Spirit"
+		},
+		{
+			"generationid": 3,
+			"abilityid": 259,
+			"abilityname": "Volt Absorb"
+		},
+		{
+			"generationid": 3,
+			"abilityid": 261,
+			"abilityname": "Water Absorb"
+		},
+		{
+			"generationid": 3,
+			"abilityid": 264,
+			"abilityname": "Water Veil"
+		},
+		{
+			"generationid": 3,
+			"abilityid": 364,
+			"abilityname": "White Smoke"
+		},
+		{
+			"generationid": 3,
+			"abilityid": 267,
+			"abilityname": "Wonder Guard"
+		},
+		{
+			"generationid": 4,
+			"abilityid": 2,
+			"abilityname": "Adaptability"
+		},
+		{
+			"generationid": 4,
+			"abilityid": 5,
+			"abilityname": "Aftermath"
+		},
+		{
+			"generationid": 4,
+			"abilityid": 8,
+			"abilityname": "Anger Point"
+		},
+		{
+			"generationid": 4,
+			"abilityid": 10,
+			"abilityname": "Anticipation"
+		},
+		{
+			"generationid": 4,
+			"abilityid": 14,
+			"abilityname": "Bad Dreams"
+		},
+		{
+			"generationid": 4,
+			"abilityid": 34,
+			"abilityname": "Cute Charm"
+		},
+		{
+			"generationid": 4,
+			"abilityid": 46,
+			"abilityname": "Download"
+		},
+		{
+			"generationid": 4,
+			"abilityid": 49,
+			"abilityname": "Dry Skin"
+		},
+		{
+			"generationid": 4,
+			"abilityid": 51,
+			"abilityname": "Effect Spore"
+		},
+		{
+			"generationid": 4,
+			"abilityid": 56,
+			"abilityname": "Filter"
+		},
+		{
+			"generationid": 4,
+			"abilityid": 57,
+			"abilityname": "Flame Body"
+		},
+		{
+			"generationid": 4,
+			"abilityid": 61,
+			"abilityname": "Flower Gift"
+		},
+		{
+			"generationid": 4,
+			"abilityid": 66,
+			"abilityname": "Forewarn"
+		},
+		{
+			"generationid": 4,
+			"abilityid": 68,
+			"abilityname": "Frisk"
+		},
+		{
+			"generationid": 4,
+			"abilityid": 74,
+			"abilityname": "Gluttony"
+		},
+		{
+			"generationid": 4,
+			"abilityid": 81,
+			"abilityname": "Heatproof"
+		},
+		{
+			"generationid": 4,
+			"abilityid": 83,
+			"abilityname": "Honey Gather"
+		},
+		{
+			"generationid": 4,
+			"abilityid": 86,
+			"abilityname": "Hydration"
+		},
+		{
+			"generationid": 4,
+			"abilityid": 88,
+			"abilityname": "Ice Body"
+		},
+		{
+			"generationid": 4,
+			"abilityid": 100,
+			"abilityname": "Iron Fist"
+		},
+		{
+			"generationid": 4,
+			"abilityid": 104,
+			"abilityname": "Klutz"
+		},
+		{
+			"generationid": 4,
+			"abilityid": 105,
+			"abilityname": "Leaf Guard"
+		},
+		{
+			"generationid": 4,
+			"abilityid": 107,
+			"abilityname": "Levitate"
+		},
+		{
+			"generationid": 4,
+			"abilityid": 111,
+			"abilityname": "Lightning Rod"
+		},
+		{
+			"generationid": 4,
+			"abilityid": 119,
+			"abilityname": "Magic Guard"
+		},
+		{
+			"generationid": 4,
+			"abilityid": 127,
+			"abilityname": "Minus"
+		},
+		{
+			"generationid": 4,
+			"abilityid": 131,
+			"abilityname": "Mold Breaker"
+		},
+		{
+			"generationid": 4,
+			"abilityid": 133,
+			"abilityname": "Motor Drive"
+		},
+		{
+			"generationid": 4,
+			"abilityid": 134,
+			"abilityname": "Mountaineer"
+		},
+		{
+			"generationid": 4,
+			"abilityid": 137,
+			"abilityname": "Multitype"
+		},
+		{
+			"generationid": 4,
+			"abilityid": 142,
+			"abilityname": "No Guard"
+		},
+		{
+			"generationid": 4,
+			"abilityid": 143,
+			"abilityname": "Normalize"
+		},
+		{
+			"generationid": 4,
+			"abilityid": 154,
+			"abilityname": "Persistent"
+		},
+		{
+			"generationid": 4,
+			"abilityid": 160,
+			"abilityname": "Plus"
+		},
+		{
+			"generationid": 4,
+			"abilityid": 163,
+			"abilityname": "Poison Heal"
+		},
+		{
+			"generationid": 4,
+			"abilityid": 164,
+			"abilityname": "Poison Point"
+		},
+		{
+			"generationid": 4,
+			"abilityid": 176,
+			"abilityname": "Quick Feet"
+		},
+		{
+			"generationid": 4,
+			"abilityid": 179,
+			"abilityname": "Rebound"
+		},
+		{
+			"generationid": 4,
+			"abilityid": 180,
+			"abilityname": "Reckless"
+		},
+		{
+			"generationid": 4,
+			"abilityid": 184,
+			"abilityname": "Rivalry"
+		},
+		{
+			"generationid": 4,
+			"abilityid": 187,
+			"abilityname": "Rough Skin"
+		},
+		{
+			"generationid": 4,
+			"abilityid": 196,
+			"abilityname": "Scrappy"
+		},
+		{
+			"generationid": 4,
+			"abilityid": 198,
+			"abilityname": "Shadow Tag"
+		},
+		{
+			"generationid": 4,
+			"abilityid": 204,
+			"abilityname": "Simple"
+		},
+		{
+			"generationid": 4,
+			"abilityid": 206,
+			"abilityname": "Skill Link"
+		},
+		{
+			"generationid": 4,
+			"abilityid": 207,
+			"abilityname": "Slow Start"
+		},
+		{
+			"generationid": 4,
+			"abilityid": 209,
+			"abilityname": "Sniper"
+		},
+		{
+			"generationid": 4,
+			"abilityid": 210,
+			"abilityname": "Snow Cloak"
+		},
+		{
+			"generationid": 4,
+			"abilityid": 211,
+			"abilityname": "Snow Warning"
+		},
+		{
+			"generationid": 4,
+			"abilityid": 212,
+			"abilityname": "Solar Power"
+		},
+		{
+			"generationid": 4,
+			"abilityid": 354,
+			"abilityname": "Solid Rock"
+		},
+		{
+			"generationid": 4,
+			"abilityid": 218,
+			"abilityname": "Stall"
+		},
+		{
+			"generationid": 4,
+			"abilityid": 221,
+			"abilityname": "Static"
+		},
+		{
+			"generationid": 4,
+			"abilityid": 223,
+			"abilityname": "Steadfast"
+		},
+		{
+			"generationid": 4,
+			"abilityid": 228,
+			"abilityname": "Storm Drain"
+		},
+		{
+			"generationid": 4,
+			"abilityid": 234,
+			"abilityname": "Super Luck"
+		},
+		{
+			"generationid": 4,
+			"abilityid": 242,
+			"abilityname": "Tangled Feet"
+		},
+		{
+			"generationid": 4,
+			"abilityid": 243,
+			"abilityname": "Technician"
+		},
+		{
+			"generationid": 4,
+			"abilityid": 247,
+			"abilityname": "Tinted Lens"
+		},
+		{
+			"generationid": 4,
+			"abilityid": 255,
+			"abilityname": "Unaware"
+		},
+		{
+			"generationid": 4,
+			"abilityid": 256,
+			"abilityname": "Unburden"
+		},
+		{
+			"generationid": 4,
+			"abilityid": 362,
+			"abilityname": "Vital Spirit"
+		},
+		{
+			"generationid": 4,
+			"abilityid": 259,
+			"abilityname": "Volt Absorb"
+		},
+		{
+			"generationid": 4,
+			"abilityid": 267,
+			"abilityname": "Wonder Guard"
+		},
+		{
+			"generationid": 5,
+			"abilityid": 7,
+			"abilityname": "Analytic"
+		},
+		{
+			"generationid": 5,
+			"abilityid": 8,
+			"abilityname": "Anger Point"
+		},
+		{
+			"generationid": 5,
+			"abilityid": 20,
+			"abilityname": "Big Pecks"
+		},
+		{
+			"generationid": 5,
+			"abilityid": 21,
+			"abilityname": "Blaze"
+		},
+		{
+			"generationid": 5,
+			"abilityid": 31,
+			"abilityname": "Contrary"
+		},
+		{
+			"generationid": 5,
+			"abilityid": 33,
+			"abilityname": "Cursed Body"
+		},
+		{
+			"generationid": 5,
+			"abilityid": 41,
+			"abilityname": "Defeatist"
+		},
+		{
+			"generationid": 5,
+			"abilityid": 42,
+			"abilityname": "Defiant"
+		},
+		{
+			"generationid": 5,
+			"abilityid": 59,
+			"abilityname": "Flare Boost"
+		},
+		{
+			"generationid": 5,
+			"abilityid": 61,
+			"abilityname": "Flower Gift"
+		},
+		{
+			"generationid": 5,
+			"abilityid": 67,
+			"abilityname": "Friend Guard"
+		},
+		{
+			"generationid": 5,
+			"abilityid": 79,
+			"abilityname": "Harvest"
+		},
+		{
+			"generationid": 5,
+			"abilityid": 80,
+			"abilityname": "Healer"
+		},
+		{
+			"generationid": 5,
+			"abilityid": 82,
+			"abilityname": "Heavy Metal"
+		},
+		{
+			"generationid": 5,
+			"abilityid": 90,
+			"abilityname": "Illusion"
+		},
+		{
+			"generationid": 5,
+			"abilityid": 92,
+			"abilityname": "Imposter"
+		},
+		{
+			"generationid": 5,
+			"abilityid": 93,
+			"abilityname": "Infiltrator"
+		},
+		{
+			"generationid": 5,
+			"abilityid": 335,
+			"abilityname": "Iron Barbs"
+		},
+		{
+			"generationid": 5,
+			"abilityid": 101,
+			"abilityname": "Justified"
+		},
+		{
+			"generationid": 5,
+			"abilityid": 105,
+			"abilityname": "Leaf Guard"
+		},
+		{
+			"generationid": 5,
+			"abilityid": 107,
+			"abilityname": "Levitate"
+		},
+		{
+			"generationid": 5,
+			"abilityid": 110,
+			"abilityname": "Light Metal"
+		},
+		{
+			"generationid": 5,
+			"abilityid": 111,
+			"abilityname": "Lightning Rod"
+		},
+		{
+			"generationid": 5,
+			"abilityid": 118,
+			"abilityname": "Magic Bounce"
+		},
+		{
+			"generationid": 5,
+			"abilityid": 119,
+			"abilityname": "Magic Guard"
+		},
+		{
+			"generationid": 5,
+			"abilityid": 127,
+			"abilityname": "Minus"
+		},
+		{
+			"generationid": 5,
+			"abilityid": 132,
+			"abilityname": "Moody"
+		},
+		{
+			"generationid": 5,
+			"abilityid": 135,
+			"abilityname": "Moxie"
+		},
+		{
+			"generationid": 5,
+			"abilityid": 136,
+			"abilityname": "Multiscale"
+		},
+		{
+			"generationid": 5,
+			"abilityid": 139,
+			"abilityname": "Mummy"
+		},
+		{
+			"generationid": 5,
+			"abilityid": 147,
+			"abilityname": "Overcoat"
+		},
+		{
+			"generationid": 5,
+			"abilityid": 149,
+			"abilityname": "Overgrow"
+		},
+		{
+			"generationid": 5,
+			"abilityid": 155,
+			"abilityname": "Pickpocket"
+		},
+		{
+			"generationid": 5,
+			"abilityid": 156,
+			"abilityname": "Pickup"
+		},
+		{
+			"generationid": 5,
+			"abilityid": 160,
+			"abilityname": "Plus"
+		},
+		{
+			"generationid": 5,
+			"abilityid": 166,
+			"abilityname": "Poison Touch"
+		},
+		{
+			"generationid": 5,
+			"abilityid": 169,
+			"abilityname": "Prankster"
+		},
+		{
+			"generationid": 5,
+			"abilityid": 171,
+			"abilityname": "Pressure"
+		},
+		{
+			"generationid": 5,
+			"abilityid": 178,
+			"abilityname": "Rattled"
+		},
+		{
+			"generationid": 5,
+			"abilityid": 183,
+			"abilityname": "Regenerator"
+		},
+		{
+			"generationid": 5,
+			"abilityid": 190,
+			"abilityname": "Sand Force"
+		},
+		{
+			"generationid": 5,
+			"abilityid": 191,
+			"abilityname": "Sand Rush"
+		},
+		{
+			"generationid": 5,
+			"abilityid": 194,
+			"abilityname": "Sap Sipper"
+		},
+		{
+			"generationid": 5,
+			"abilityid": 201,
+			"abilityname": "Sheer Force"
+		},
+		{
+			"generationid": 5,
+			"abilityid": 204,
+			"abilityname": "Simple"
+		},
+		{
+			"generationid": 5,
+			"abilityid": 214,
+			"abilityname": "Soundproof"
+		},
+		{
+			"generationid": 5,
+			"abilityid": 225,
+			"abilityname": "Stench"
+		},
+		{
+			"generationid": 5,
+			"abilityid": 228,
+			"abilityname": "Storm Drain"
+		},
+		{
+			"generationid": 5,
+			"abilityid": 231,
+			"abilityname": "Sturdy"
+		},
+		{
+			"generationid": 5,
+			"abilityid": 236,
+			"abilityname": "Swarm"
+		},
+		{
+			"generationid": 5,
+			"abilityid": 244,
+			"abilityname": "Telepathy"
+		},
+		{
+			"generationid": 5,
+			"abilityid": 358,
+			"abilityname": "Teravolt"
+		},
+		{
+			"generationid": 5,
+			"abilityid": 245,
+			"abilityname": "Thick Fat"
+		},
+		{
+			"generationid": 5,
+			"abilityid": 248,
+			"abilityname": "Torrent"
+		},
+		{
+			"generationid": 5,
+			"abilityid": 251,
+			"abilityname": "Toxic Boost"
+		},
+		{
+			"generationid": 5,
+			"abilityid": 360,
+			"abilityname": "Turboblaze"
+		},
+		{
+			"generationid": 5,
+			"abilityid": 257,
+			"abilityname": "Unnerve"
+		},
+		{
+			"generationid": 5,
+			"abilityid": 258,
+			"abilityname": "Victory Star"
+		},
+		{
+			"generationid": 5,
+			"abilityid": 265,
+			"abilityname": "Weak Armor"
+		},
+		{
+			"generationid": 5,
+			"abilityid": 267,
+			"abilityname": "Wonder Guard"
+		},
+		{
+			"generationid": 5,
+			"abilityid": 270,
+			"abilityname": "Wonder Skin"
+		},
+		{
+			"generationid": 5,
+			"abilityid": 271,
+			"abilityname": "Zen Mode"
+		},
+		{
+			"generationid": 6,
+			"abilityid": 3,
+			"abilityname": "Aerilate"
+		},
+		{
+			"generationid": 6,
+			"abilityid": 12,
+			"abilityname": "Aroma Veil"
+		},
+		{
+			"generationid": 6,
+			"abilityid": 13,
+			"abilityname": "Aura Break"
+		},
+		{
+			"generationid": 6,
+			"abilityid": 23,
+			"abilityname": "Bulletproof"
+		},
+		{
+			"generationid": 6,
+			"abilityid": 24,
+			"abilityname": "Cheek Pouch"
+		},
+		{
+			"generationid": 6,
+			"abilityid": 29,
+			"abilityname": "Competitive"
+		},
+		{
+			"generationid": 6,
+			"abilityid": 39,
+			"abilityname": "Dark Aura"
+		},
+		{
+			"generationid": 6,
+			"abilityid": 43,
+			"abilityname": "Delta Stream"
+		},
+		{
+			"generationid": 6,
+			"abilityid": 44,
+			"abilityname": "Desolate Land"
+		},
+		{
+			"generationid": 6,
+			"abilityid": 55,
+			"abilityname": "Fairy Aura"
+		},
+		{
+			"generationid": 6,
+			"abilityid": 63,
+			"abilityname": "Flower Veil"
+		},
+		{
+			"generationid": 6,
+			"abilityid": 68,
+			"abilityname": "Frisk"
+		},
+		{
+			"generationid": 6,
+			"abilityid": 70,
+			"abilityname": "Fur Coat"
+		},
+		{
+			"generationid": 6,
+			"abilityid": 71,
+			"abilityname": "Gale Wings"
+		},
+		{
+			"generationid": 6,
+			"abilityid": 75,
+			"abilityname": "Gooey"
+		},
+		{
+			"generationid": 6,
+			"abilityid": 76,
+			"abilityname": "Grass Pelt"
+		},
+		{
+			"generationid": 6,
+			"abilityid": 93,
+			"abilityname": "Infiltrator"
+		},
+		{
+			"generationid": 6,
+			"abilityid": 102,
+			"abilityname": "Keen Eye"
+		},
+		{
+			"generationid": 6,
+			"abilityid": 121,
+			"abilityname": "Magician"
+		},
+		{
+			"generationid": 6,
+			"abilityid": 125,
+			"abilityname": "Mega Launcher"
+		},
+		{
+			"generationid": 6,
+			"abilityid": 145,
+			"abilityname": "Oblivious"
+		},
+		{
+			"generationid": 6,
+			"abilityid": 147,
+			"abilityname": "Overcoat"
+		},
+		{
+			"generationid": 6,
+			"abilityid": 152,
+			"abilityname": "Parental Bond"
+		},
+		{
+			"generationid": 6,
+			"abilityid": 158,
+			"abilityname": "Pixilate"
+		},
+		{
+			"generationid": 6,
+			"abilityid": 173,
+			"abilityname": "Primordial Sea"
+		},
+		{
+			"generationid": 6,
+			"abilityid": 174,
+			"abilityname": "Protean"
+		},
+		{
+			"generationid": 6,
+			"abilityid": 181,
+			"abilityname": "Refrigerate"
+		},
+		{
+			"generationid": 6,
+			"abilityid": 220,
+			"abilityname": "Stance Change"
+		},
+		{
+			"generationid": 6,
+			"abilityid": 230,
+			"abilityname": "Strong Jaw"
+		},
+		{
+			"generationid": 6,
+			"abilityid": 238,
+			"abilityname": "Sweet Veil"
+		},
+		{
+			"generationid": 6,
+			"abilityid": 240,
+			"abilityname": "Symbiosis"
+		},
+		{
+			"generationid": 6,
+			"abilityid": 250,
+			"abilityname": "Tough Claws"
+		},
+		{
+			"generationid": 7,
+			"abilityid": 3,
+			"abilityname": "Aerilate"
+		},
+		{
+			"generationid": 7,
+			"abilityid": 15,
+			"abilityname": "Battery"
+		},
+		{
+			"generationid": 7,
+			"abilityid": 17,
+			"abilityname": "Battle Bond"
+		},
+		{
+			"generationid": 7,
+			"abilityid": 18,
+			"abilityname": "Beast Boost"
+		},
+		{
+			"generationid": 7,
+			"abilityid": 19,
+			"abilityname": "Berserk"
+		},
+		{
+			"generationid": 7,
+			"abilityid": 28,
+			"abilityname": "Comatose"
+		},
+		{
+			"generationid": 7,
+			"abilityid": 32,
+			"abilityname": "Corrosion"
+		},
+		{
+			"generationid": 7,
+			"abilityid": 36,
+			"abilityname": "Damp"
+		},
+		{
+			"generationid": 7,
+			"abilityid": 38,
+			"abilityname": "Dancer"
+		},
+		{
+			"generationid": 7,
+			"abilityid": 40,
+			"abilityname": "Dazzling"
+		},
+		{
+			"generationid": 7,
+			"abilityid": 45,
+			"abilityname": "Disguise"
+		},
+		{
+			"generationid": 7,
+			"abilityid": 53,
+			"abilityname": "Electric Surge"
+		},
+		{
+			"generationid": 7,
+			"abilityid": 54,
+			"abilityname": "Emergency Exit"
+		},
+		{
+			"generationid": 7,
+			"abilityid": 64,
+			"abilityname": "Fluffy"
+		},
+		{
+			"generationid": 7,
+			"abilityid": 327,
+			"abilityname": "Full Metal Body"
+		},
+		{
+			"generationid": 7,
+			"abilityid": 71,
+			"abilityname": "Gale Wings"
+		},
+		{
+			"generationid": 7,
+			"abilityid": 73,
+			"abilityname": "Galvanize"
+		},
+		{
+			"generationid": 7,
+			"abilityid": 77,
+			"abilityname": "Grassy Surge"
+		},
+		{
+			"generationid": 7,
+			"abilityid": 93,
+			"abilityname": "Infiltrator"
+		},
+		{
+			"generationid": 7,
+			"abilityid": 96,
+			"abilityname": "Innards Out"
+		},
+		{
+			"generationid": 7,
+			"abilityid": 116,
+			"abilityname": "Liquid Voice"
+		},
+		{
+			"generationid": 7,
+			"abilityid": 117,
+			"abilityname": "Long Reach"
+		},
+		{
+			"generationid": 7,
+			"abilityid": 126,
+			"abilityname": "Merciless"
+		},
+		{
+			"generationid": 7,
+			"abilityid": 130,
+			"abilityname": "Misty Surge"
+		},
+		{
+			"generationid": 7,
+			"abilityid": 137,
+			"abilityname": "Multitype"
+		},
+		{
+			"generationid": 7,
+			"abilityid": 141,
+			"abilityname": "Neuroforce"
+		},
+		{
+			"generationid": 7,
+			"abilityid": 143,
+			"abilityname": "Normalize"
+		},
+		{
+			"generationid": 7,
+			"abilityid": 152,
+			"abilityname": "Parental Bond"
+		},
+		{
+			"generationid": 7,
+			"abilityid": 158,
+			"abilityname": "Pixilate"
+		},
+		{
+			"generationid": 7,
+			"abilityid": 167,
+			"abilityname": "Power Construct"
+		},
+		{
+			"generationid": 7,
+			"abilityid": 168,
+			"abilityname": "Power of Alchemy"
+		},
+		{
+			"generationid": 7,
+			"abilityid": 169,
+			"abilityname": "Prankster"
+		},
+		{
+			"generationid": 7,
+			"abilityid": 342,
+			"abilityname": "Prism Armor"
+		},
+		{
+			"generationid": 7,
+			"abilityid": 175,
+			"abilityname": "Psychic Surge"
+		},
+		{
+			"generationid": 7,
+			"abilityid": 346,
+			"abilityname": "Queenly Majesty"
+		},
+		{
+			"generationid": 7,
+			"abilityid": 348,
+			"abilityname": "Receiver"
+		},
+		{
+			"generationid": 7,
+			"abilityid": 181,
+			"abilityname": "Refrigerate"
+		},
+		{
+			"generationid": 7,
+			"abilityid": 185,
+			"abilityname": "RKS System"
+		},
+		{
+			"generationid": 7,
+			"abilityid": 195,
+			"abilityname": "Schooling"
+		},
+		{
+			"generationid": 7,
+			"abilityid": 352,
+			"abilityname": "Shadow Shield"
+		},
+		{
+			"generationid": 7,
+			"abilityid": 203,
+			"abilityname": "Shields Down"
+		},
+		{
+			"generationid": 7,
+			"abilityid": 208,
+			"abilityname": "Slush Rush"
+		},
+		{
+			"generationid": 7,
+			"abilityid": 213,
+			"abilityname": "Soul-Heart"
+		},
+		{
+			"generationid": 7,
+			"abilityid": 217,
+			"abilityname": "Stakeout"
+		},
+		{
+			"generationid": 7,
+			"abilityid": 219,
+			"abilityname": "Stamina"
+		},
+		{
+			"generationid": 7,
+			"abilityid": 224,
+			"abilityname": "Steelworker"
+		},
+		{
+			"generationid": 7,
+			"abilityid": 235,
+			"abilityname": "Surge Surfer"
+		},
+		{
+			"generationid": 7,
+			"abilityid": 357,
+			"abilityname": "Tangling Hair"
+		},
+		{
+			"generationid": 7,
+			"abilityid": 253,
+			"abilityname": "Triage"
+		},
+		{
+			"generationid": 7,
+			"abilityid": 262,
+			"abilityname": "Water Bubble"
+		},
+		{
+			"generationid": 7,
+			"abilityid": 263,
+			"abilityname": "Water Compaction"
+		},
+		{
+			"generationid": 7,
+			"abilityid": 265,
+			"abilityname": "Weak Armor"
+		},
+		{
+			"generationid": 7,
+			"abilityid": 365,
+			"abilityname": "Wimp Out"
+		},
+		{
+			"generationid": 8,
+			"abilityid": 319,
+			"abilityname": "As One"
+		},
+		{
+			"generationid": 8,
+			"abilityid": 320,
+			"abilityname": "Ball Fetch"
+		},
+		{
+			"generationid": 8,
+			"abilityid": 321,
+			"abilityname": "Chilling Neigh"
+		},
+		{
+			"generationid": 8,
+			"abilityid": 323,
+			"abilityname": "Cotton Down"
+		},
+		{
+			"generationid": 8,
+			"abilityid": 324,
+			"abilityname": "Curious Medicine"
+		},
+		{
+			"generationid": 8,
+			"abilityid": 325,
+			"abilityname": "Dauntless Shield"
+		},
+		{
+			"generationid": 8,
+			"abilityid": 326,
+			"abilityname": "Dragon's Maw"
+		},
+		{
+			"generationid": 8,
+			"abilityid": 328,
+			"abilityname": "Gorilla Tactics"
+		},
+		{
+			"generationid": 8,
+			"abilityid": 329,
+			"abilityname": "Grim Neigh"
+		},
+		{
+			"generationid": 8,
+			"abilityid": 330,
+			"abilityname": "Gulp Missile"
+		},
+		{
+			"generationid": 8,
+			"abilityid": 331,
+			"abilityname": "Hunger Switch"
+		},
+		{
+			"generationid": 8,
+			"abilityid": 332,
+			"abilityname": "Ice Face"
+		},
+		{
+			"generationid": 8,
+			"abilityid": 333,
+			"abilityname": "Ice Scales"
+		},
+		{
+			"generationid": 8,
+			"abilityid": 334,
+			"abilityname": "Intrepid Sword"
+		},
+		{
+			"generationid": 8,
+			"abilityid": 336,
+			"abilityname": "Libero"
+		},
+		{
+			"generationid": 8,
+			"abilityid": 337,
+			"abilityname": "Mimicry"
+		},
+		{
+			"generationid": 8,
+			"abilityid": 338,
+			"abilityname": "Mirror Armor"
+		},
+		{
+			"generationid": 8,
+			"abilityid": 339,
+			"abilityname": "Neutralizing Gas"
+		},
+		{
+			"generationid": 8,
+			"abilityid": 340,
+			"abilityname": "Pastel Veil"
+		},
+		{
+			"generationid": 8,
+			"abilityid": 341,
+			"abilityname": "Power Spot"
+		},
+		{
+			"generationid": 8,
+			"abilityid": 343,
+			"abilityname": "Propeller Tail"
+		},
+		{
+			"generationid": 8,
+			"abilityid": 344,
+			"abilityname": "Punk Rock"
+		},
+		{
+			"generationid": 8,
+			"abilityid": 347,
+			"abilityname": "Quick Draw"
+		},
+		{
+			"generationid": 8,
+			"abilityid": 349,
+			"abilityname": "Ripen"
+		},
+		{
+			"generationid": 8,
+			"abilityid": 350,
+			"abilityname": "Sand Spit"
+		},
+		{
+			"generationid": 8,
+			"abilityid": 351,
+			"abilityname": "Screen Cleaner"
+		},
+		{
+			"generationid": 8,
+			"abilityid": 355,
+			"abilityname": "Stalwart"
+		},
+		{
+			"generationid": 8,
+			"abilityid": 356,
+			"abilityname": "Steam Engine"
+		},
+		{
+			"generationid": 8,
+			"abilityid": 359,
+			"abilityname": "Transistor"
+		},
+		{
+			"generationid": 8,
+			"abilityid": 361,
+			"abilityname": "Unseen Fist"
+		},
+		{
+			"generationid": 8,
+			"abilityid": 363,
+			"abilityname": "Wandering Spirit"
+		}
+	]
+}
