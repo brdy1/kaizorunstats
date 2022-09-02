@@ -5,34 +5,57 @@
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
-    <label for="e4-radio">Runner Name:</label><input id="runnername-text" type="text" name="runnername"> <br>
-    <label for="e4-radio">Game Name:</label><select id="game-dropdown" name="game"></select> <br>
-    <legend>Did the run reach the Elite 4 (or Equivalent)?</legend>
-    <input id="e4-radio" type="radio" name="e4" value="Yes"><label for="e4-radio">Yes</label> <br>
-    <legend>Was the run streamed?</legend>
-    <input id="streamed-radio-yes" type="radio" name="streamed" value="Yes"><label for="streamed-radio-yes">Yes</label>
-    <input id="streamed-radio-no" type="radio" name="streamed" value="No"><label for="streamed-radio-no">No</label><br>
+    <form>
+    <div id="runinfo">
+        <p>
+            <label for="e4-radio">Runner Name:</label><input id="runnername-text" type="text" name="runnername">
+            <label for="e4-radio">Game Name:</label><select id="game-dropdown" name="game"></select> <br>
+        </p>
+        <p>
+            <legend>Did the run reach the Elite 4 (or Equivalent)?</legend>
+        </p>
+        <p>
+            <input id="e4-radio" type="radio" name="e4" value="Yes"><label for="e4-radio">Yes</label> <br>
+        </p>
+        <p>
+            <legend>Was the run streamed?</legend>
+        </p>
+        <p>
+            <input id="streamed-radio-yes" type="radio" name="streamed" value="Yes"><label for="streamed-radio-yes">Yes</label>
+            <input id="streamed-radio-no" type="radio" name="streamed" value="No"><label for="streamed-radio-no">No</label><br>
+        </p>
+    </div>
     <div id="pokemoninfo">
         <fieldset>
             <legend>
-                Pokemon info
+                Pokemon Level, Ability, Nature, and Moves at Elite 4
             </legend>
-            <label for="e4level-number">Level When Entering Elite 4 or Equivalent: </label><input id="e4level-number" name="e4level" type="number" size="4" min="1" max="100"> <br />
+            <p>
+            <label for="e4level-number">Level When Entering Elite 4 or Equivalent: </label><br /><input id="e4level-number" name="e4level" type="number" size="4" min="1" max="100"> <br />
+            </p>
             <select id="pokemon-dropdown" name="pokemon"></select> <br />
             <select id="ability-dropdown" name="ability"></select> <br />
-            <select id="move-dropdown1" name="move"></select> <br />
-            <select id="move-dropdown2" name="move"></select> <br />
-            <select id="move-dropdown3" name="move"></select> <br />
-            <select id="move-dropdown4" name="move"></select> <br />
-            <select id="nature-dropdown" name="nature"></select> <br />
-            <label for="e4level-number">HP: </label><input id="hp-number" name="hp" type="number" min="1" max="700" size="4"> <br />
-            <label for="e4level-number">Attack: </label><input id="atk-number" name="atk" type="number" min="1" max="700" size="4"> <br />
-            <label for="e4level-number">Defense: </label><input id="def-number" name="def" type="number" min="1" max="700" size="4"> <br />
-            <label for="e4level-number">Special Attack: </label><input id="spatk-number" name="spatk" type="number" min="1" max="700" size="4"> <br />
-            <label for="e4level-number">Special Defense: </label><input id="spdef-number" name="spdef" type="number" min="1" max="700" size="4"> <br />
-            <label for="e4level-number">Speed: </label><input id="e4level-number" name="speed" type="number" min="1" max="700" size="4"> <br />
-            <label for="e4level-number">Level When Stats Were Recorded: </label><input id="statslevel-number" name="statslevel" type="number" min="1" max="100" size="4"> <br />
+            <p>
+                <select id="move-dropdown1" name="move"></select> <br />
+                <select id="move-dropdown2" name="move"></select> <br />
+                <select id="move-dropdown3" name="move"></select> <br />
+                <select id="move-dropdown4" name="move"></select> <br />
+                <select id="nature-dropdown" name="nature"></select> <br />
+            </p>
         </fieldset>
+        <fieldset>
+            <legend>
+                Pokemon Stats
+            </legend>
+            <label for="e4level-number">HP: </label> <br /><input id="hp-number" name="hp" type="number" min="1" max="700" size="4"> <br />
+            <label for="e4level-number">Attack: </label> <br /><input id="atk-number" name="atk" type="number" min="1" max="700" size="4"> <br />
+            <label for="e4level-number">Defense: </label> <br /><input id="def-number" name="def" type="number" min="1" max="700" size="4"> <br />
+            <label for="e4level-number">Special Attack: </label> <br /><input id="spatk-number" name="spatk" type="number" min="1" max="700" size="4"> <br />
+            <label for="e4level-number">Special Defense: </label> <br /><input id="spdef-number" name="spdef" type="number" min="1" max="700" size="4"> <br />
+            <label for="e4level-number">Speed: </label> <br /><input id="e4level-number" name="speed" type="number" min="1" max="700" size="4"> <br />
+            <label for="e4level-number">Level When Stats Were Recorded: </label> <br /><input id="statslevel-number" name="statslevel" type="number" min="1" max="100" size="4"> <br />
+        </fieldset>
+    </form>
     <input type="submit" value="Submit Run">
     </div>
 </body>

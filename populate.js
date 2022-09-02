@@ -57,7 +57,14 @@ naturerequest.onload = function() {
     let option;
     for (let i = 0; i < naturedata.length; i++) {
       option = document.createElement('option');
-      option.text = naturedata[i].naturename;
+      naturename = naturedata[i].naturename;
+      if (naturedata[i].raisedstat) {
+        raisedname = naturedata[i].raisedstat;
+        loweredname = naturedata[i].loweredstat;
+        option.text = naturename+' (+'+raisedname+'/-'+loweredname+')'
+      } else {
+        option.text = naturename;
+      }
       option.value = naturedata[i].natureid;
       naturedropdown.add(option);
     }
