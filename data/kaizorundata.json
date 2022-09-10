@@ -2,374 +2,6 @@
     "load_date": "2022-9-9",
     "data": [
         {
-            "game_group_name": "Emerald",
-            "game_group_record_count": 4,
-            "kaizo_runs": [
-                {
-                    "id": 85,
-                    "runner_name": "lmjacks",
-                    "streamed_flag": "Yes",
-                    "win_flag": "No",
-                    "pokemon": {
-                        "ability_name": "Stench",
-                        "level_at_elite_4": 94,
-                        "is_legendary": false,
-                        "is_mythic": false,
-                        "pokedex_number": 230,
-                        "species": "Kingdra",
-                        "weaknesses": [
-                            {
-                                "name": "Dragon",
-                                "damage_modifier": 2.0
-                            }
-                        ],
-                        "resistances": [
-                            {
-                                "name": "Fire",
-                                "damage_modifier": 0.25
-                            },
-                            {
-                                "name": "Steel",
-                                "damage_modifier": 0.5
-                            },
-                            {
-                                "name": "Water",
-                                "damage_modifier": 0.25
-                            }
-                        ],
-                        "immunities": [],
-                        "types": [
-                            "Water",
-                            "Dragon"
-                        ],
-                        "bst": 540,
-                        "nature": {
-                            "name": "Calm",
-                            "lowered_stat_name": "Attack",
-                            "raised_stat_name": "Special Defense",
-                            "neutral_flag": false
-                        },
-                        "raw_stat_values": {
-                            "HP": 396,
-                            "Atk": 246,
-                            "Def": 171,
-                            "Sp. Atk": 150,
-                            "Sp. Def": 196,
-                            "Spe": 151
-                        },
-                        "moves": [
-                            {
-                                "name": "Crush Claw",
-                                "pp": 10,
-                                "power": 75,
-                                "accuracy": 95
-                            },
-                            {
-                                "name": "Extreme Speed",
-                                "pp": 5,
-                                "power": 80,
-                                "accuracy": 100
-                            },
-                            {
-                                "name": "Flamethrower",
-                                "pp": 15,
-                                "power": 95,
-                                "accuracy": 100
-                            },
-                            {
-                                "name": "Hydro Pump",
-                                "pp": 5,
-                                "power": 120,
-                                "accuracy": 80
-                            }
-                        ]
-                    }
-                },
-                {
-                    "id": 86,
-                    "runner_name": "lmjacks",
-                    "streamed_flag": "Yes",
-                    "win_flag": "No",
-                    "pokemon": {
-                        "ability_name": "Serene Grace",
-                        "level_at_elite_4": 93,
-                        "is_legendary": false,
-                        "is_mythic": false,
-                        "pokedex_number": 186,
-                        "species": "Politoed",
-                        "weaknesses": [
-                            {
-                                "name": "Electric",
-                                "damage_modifier": 2.0
-                            },
-                            {
-                                "name": "Grass",
-                                "damage_modifier": 2.0
-                            }
-                        ],
-                        "resistances": [
-                            {
-                                "name": "Fire",
-                                "damage_modifier": 0.5
-                            },
-                            {
-                                "name": "Ice",
-                                "damage_modifier": 0.5
-                            },
-                            {
-                                "name": "Steel",
-                                "damage_modifier": 0.5
-                            },
-                            {
-                                "name": "Water",
-                                "damage_modifier": 0.5
-                            }
-                        ],
-                        "immunities": [],
-                        "types": [
-                            "Water"
-                        ],
-                        "bst": 500,
-                        "nature": {
-                            "name": "Mild",
-                            "lowered_stat_name": "Defense",
-                            "raised_stat_name": "Special Attack",
-                            "neutral_flag": false
-                        },
-                        "raw_stat_values": {
-                            "HP": 310,
-                            "Atk": 113,
-                            "Def": 182,
-                            "Sp. Atk": 301,
-                            "Sp. Def": 162,
-                            "Spe": 203
-                        },
-                        "moves": [
-                            {
-                                "name": "Ice Beam",
-                                "pp": 10,
-                                "power": 95,
-                                "accuracy": 100
-                            },
-                            {
-                                "name": "Lick",
-                                "pp": 30,
-                                "power": 20,
-                                "accuracy": 100
-                            },
-                            {
-                                "name": "Psybeam",
-                                "pp": 20,
-                                "power": 65,
-                                "accuracy": 100
-                            },
-                            {
-                                "name": "Thunder Punch",
-                                "pp": 15,
-                                "power": 75,
-                                "accuracy": 100
-                            }
-                        ]
-                    }
-                },
-                {
-                    "id": 87,
-                    "runner_name": "lmjacks",
-                    "streamed_flag": "Yes",
-                    "win_flag": "Yes",
-                    "pokemon": {
-                        "ability_name": "Drizzle",
-                        "level_at_elite_4": 92,
-                        "is_legendary": false,
-                        "is_mythic": false,
-                        "pokedex_number": 257,
-                        "species": "Blaziken",
-                        "weaknesses": [
-                            {
-                                "name": "Flying",
-                                "damage_modifier": 2.0
-                            },
-                            {
-                                "name": "Ground",
-                                "damage_modifier": 2.0
-                            },
-                            {
-                                "name": "Psychic",
-                                "damage_modifier": 2.0
-                            },
-                            {
-                                "name": "Water",
-                                "damage_modifier": 2.0
-                            }
-                        ],
-                        "resistances": [
-                            {
-                                "name": "Bug",
-                                "damage_modifier": 0.25
-                            },
-                            {
-                                "name": "Dark",
-                                "damage_modifier": 0.5
-                            },
-                            {
-                                "name": "Fire",
-                                "damage_modifier": 0.5
-                            },
-                            {
-                                "name": "Grass",
-                                "damage_modifier": 0.5
-                            },
-                            {
-                                "name": "Ice",
-                                "damage_modifier": 0.5
-                            },
-                            {
-                                "name": "Steel",
-                                "damage_modifier": 0.5
-                            }
-                        ],
-                        "immunities": [],
-                        "types": [
-                            "Fire",
-                            "Fighting"
-                        ],
-                        "bst": 530,
-                        "nature": {
-                            "name": "Bold",
-                            "lowered_stat_name": "Attack",
-                            "raised_stat_name": "Defense",
-                            "neutral_flag": false
-                        },
-                        "raw_stat_values": {
-                            "HP": 329,
-                            "Atk": 108,
-                            "Def": 227,
-                            "Sp. Atk": 223,
-                            "Sp. Def": 166,
-                            "Spe": 258
-                        },
-                        "moves": [
-                            {
-                                "name": "Bubble Beam",
-                                "pp": 20,
-                                "power": 65,
-                                "accuracy": 100
-                            },
-                            {
-                                "name": "Extreme Speed",
-                                "pp": 5,
-                                "power": 80,
-                                "accuracy": 100
-                            },
-                            {
-                                "name": "Pursuit",
-                                "pp": 20,
-                                "power": 40,
-                                "accuracy": 100
-                            },
-                            {
-                                "name": "Thunder",
-                                "pp": 10,
-                                "power": 120,
-                                "accuracy": 70
-                            }
-                        ]
-                    }
-                },
-                {
-                    "id": 99,
-                    "runner_name": "sinbbeagle",
-                    "streamed_flag": "No",
-                    "win_flag": "Yes",
-                    "pokemon": {
-                        "ability_name": "Volt Absorb",
-                        "level_at_elite_4": 91,
-                        "is_legendary": false,
-                        "is_mythic": false,
-                        "pokedex_number": 330,
-                        "species": "Flygon",
-                        "weaknesses": [
-                            {
-                                "name": "Dragon",
-                                "damage_modifier": 2.0
-                            },
-                            {
-                                "name": "Ice",
-                                "damage_modifier": 4.0
-                            }
-                        ],
-                        "resistances": [
-                            {
-                                "name": "Fire",
-                                "damage_modifier": 0.5
-                            },
-                            {
-                                "name": "Poison",
-                                "damage_modifier": 0.5
-                            },
-                            {
-                                "name": "Rock",
-                                "damage_modifier": 0.5
-                            }
-                        ],
-                        "immunities": [
-                            "Electric"
-                        ],
-                        "types": [
-                            "Ground",
-                            "Dragon"
-                        ],
-                        "bst": 520,
-                        "nature": {
-                            "name": "Lax",
-                            "lowered_stat_name": "Special Defense",
-                            "raised_stat_name": "Defense",
-                            "neutral_flag": false
-                        },
-                        "raw_stat_values": {
-                            "HP": 281,
-                            "Atk": 153,
-                            "Def": 212,
-                            "Sp. Atk": 227,
-                            "Sp. Def": 229,
-                            "Spe": 184
-                        },
-                        "moves": [
-                            {
-                                "name": "Psybeam",
-                                "pp": 20,
-                                "power": 65,
-                                "accuracy": 100
-                            },
-                            {
-                                "name": "Sacred Fire",
-                                "pp": 5,
-                                "power": 100,
-                                "accuracy": 95
-                            },
-                            {
-                                "name": "Spark",
-                                "pp": 20,
-                                "power": 65,
-                                "accuracy": 100
-                            },
-                            {
-                                "name": "Tail Glow",
-                                "pp": 20,
-                                "power": null,
-                                "accuracy": null
-                            }
-                        ]
-                    }
-                }
-            ]
-        },
-        {
-            "game_group_name": "Red/Blue",
-            "game_group_record_count": 1,
-            "kaizo_runs": []
-        },
-        {
             "game_group_name": "FireRed/LeafGreen",
             "game_group_record_count": 124,
             "kaizo_runs": [
@@ -11239,6 +10871,369 @@
                                 "pp": 35,
                                 "power": 60,
                                 "accuracy": 100
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "game_group_name": "Emerald",
+            "game_group_record_count": 4,
+            "kaizo_runs": [
+                {
+                    "id": 85,
+                    "runner_name": "lmjacks",
+                    "streamed_flag": "Yes",
+                    "win_flag": "No",
+                    "pokemon": {
+                        "ability_name": "Stench",
+                        "level_at_elite_4": 94,
+                        "is_legendary": false,
+                        "is_mythic": false,
+                        "pokedex_number": 230,
+                        "species": "Kingdra",
+                        "weaknesses": [
+                            {
+                                "name": "Dragon",
+                                "damage_modifier": 2.0
+                            }
+                        ],
+                        "resistances": [
+                            {
+                                "name": "Fire",
+                                "damage_modifier": 0.25
+                            },
+                            {
+                                "name": "Steel",
+                                "damage_modifier": 0.5
+                            },
+                            {
+                                "name": "Water",
+                                "damage_modifier": 0.25
+                            }
+                        ],
+                        "immunities": [],
+                        "types": [
+                            "Water",
+                            "Dragon"
+                        ],
+                        "bst": 540,
+                        "nature": {
+                            "name": "Calm",
+                            "lowered_stat_name": "Attack",
+                            "raised_stat_name": "Special Defense",
+                            "neutral_flag": false
+                        },
+                        "raw_stat_values": {
+                            "HP": 396,
+                            "Atk": 246,
+                            "Def": 171,
+                            "Sp. Atk": 150,
+                            "Sp. Def": 196,
+                            "Spe": 151
+                        },
+                        "moves": [
+                            {
+                                "name": "Crush Claw",
+                                "pp": 10,
+                                "power": 75,
+                                "accuracy": 95
+                            },
+                            {
+                                "name": "Extreme Speed",
+                                "pp": 5,
+                                "power": 80,
+                                "accuracy": 100
+                            },
+                            {
+                                "name": "Flamethrower",
+                                "pp": 15,
+                                "power": 95,
+                                "accuracy": 100
+                            },
+                            {
+                                "name": "Hydro Pump",
+                                "pp": 5,
+                                "power": 120,
+                                "accuracy": 80
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 86,
+                    "runner_name": "lmjacks",
+                    "streamed_flag": "Yes",
+                    "win_flag": "No",
+                    "pokemon": {
+                        "ability_name": "Serene Grace",
+                        "level_at_elite_4": 93,
+                        "is_legendary": false,
+                        "is_mythic": false,
+                        "pokedex_number": 186,
+                        "species": "Politoed",
+                        "weaknesses": [
+                            {
+                                "name": "Electric",
+                                "damage_modifier": 2.0
+                            },
+                            {
+                                "name": "Grass",
+                                "damage_modifier": 2.0
+                            }
+                        ],
+                        "resistances": [
+                            {
+                                "name": "Fire",
+                                "damage_modifier": 0.5
+                            },
+                            {
+                                "name": "Ice",
+                                "damage_modifier": 0.5
+                            },
+                            {
+                                "name": "Steel",
+                                "damage_modifier": 0.5
+                            },
+                            {
+                                "name": "Water",
+                                "damage_modifier": 0.5
+                            }
+                        ],
+                        "immunities": [],
+                        "types": [
+                            "Water"
+                        ],
+                        "bst": 500,
+                        "nature": {
+                            "name": "Mild",
+                            "lowered_stat_name": "Defense",
+                            "raised_stat_name": "Special Attack",
+                            "neutral_flag": false
+                        },
+                        "raw_stat_values": {
+                            "HP": 310,
+                            "Atk": 113,
+                            "Def": 182,
+                            "Sp. Atk": 301,
+                            "Sp. Def": 162,
+                            "Spe": 203
+                        },
+                        "moves": [
+                            {
+                                "name": "Ice Beam",
+                                "pp": 10,
+                                "power": 95,
+                                "accuracy": 100
+                            },
+                            {
+                                "name": "Lick",
+                                "pp": 30,
+                                "power": 20,
+                                "accuracy": 100
+                            },
+                            {
+                                "name": "Psybeam",
+                                "pp": 20,
+                                "power": 65,
+                                "accuracy": 100
+                            },
+                            {
+                                "name": "Thunder Punch",
+                                "pp": 15,
+                                "power": 75,
+                                "accuracy": 100
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 87,
+                    "runner_name": "lmjacks",
+                    "streamed_flag": "Yes",
+                    "win_flag": "Yes",
+                    "pokemon": {
+                        "ability_name": "Drizzle",
+                        "level_at_elite_4": 92,
+                        "is_legendary": false,
+                        "is_mythic": false,
+                        "pokedex_number": 257,
+                        "species": "Blaziken",
+                        "weaknesses": [
+                            {
+                                "name": "Flying",
+                                "damage_modifier": 2.0
+                            },
+                            {
+                                "name": "Ground",
+                                "damage_modifier": 2.0
+                            },
+                            {
+                                "name": "Psychic",
+                                "damage_modifier": 2.0
+                            },
+                            {
+                                "name": "Water",
+                                "damage_modifier": 2.0
+                            }
+                        ],
+                        "resistances": [
+                            {
+                                "name": "Bug",
+                                "damage_modifier": 0.25
+                            },
+                            {
+                                "name": "Dark",
+                                "damage_modifier": 0.5
+                            },
+                            {
+                                "name": "Fire",
+                                "damage_modifier": 0.5
+                            },
+                            {
+                                "name": "Grass",
+                                "damage_modifier": 0.5
+                            },
+                            {
+                                "name": "Ice",
+                                "damage_modifier": 0.5
+                            },
+                            {
+                                "name": "Steel",
+                                "damage_modifier": 0.5
+                            }
+                        ],
+                        "immunities": [],
+                        "types": [
+                            "Fire",
+                            "Fighting"
+                        ],
+                        "bst": 530,
+                        "nature": {
+                            "name": "Bold",
+                            "lowered_stat_name": "Attack",
+                            "raised_stat_name": "Defense",
+                            "neutral_flag": false
+                        },
+                        "raw_stat_values": {
+                            "HP": 329,
+                            "Atk": 108,
+                            "Def": 227,
+                            "Sp. Atk": 223,
+                            "Sp. Def": 166,
+                            "Spe": 258
+                        },
+                        "moves": [
+                            {
+                                "name": "Bubble Beam",
+                                "pp": 20,
+                                "power": 65,
+                                "accuracy": 100
+                            },
+                            {
+                                "name": "Extreme Speed",
+                                "pp": 5,
+                                "power": 80,
+                                "accuracy": 100
+                            },
+                            {
+                                "name": "Pursuit",
+                                "pp": 20,
+                                "power": 40,
+                                "accuracy": 100
+                            },
+                            {
+                                "name": "Thunder",
+                                "pp": 10,
+                                "power": 120,
+                                "accuracy": 70
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 99,
+                    "runner_name": "sinbbeagle",
+                    "streamed_flag": "No",
+                    "win_flag": "Yes",
+                    "pokemon": {
+                        "ability_name": "Volt Absorb",
+                        "level_at_elite_4": 91,
+                        "is_legendary": false,
+                        "is_mythic": false,
+                        "pokedex_number": 330,
+                        "species": "Flygon",
+                        "weaknesses": [
+                            {
+                                "name": "Dragon",
+                                "damage_modifier": 2.0
+                            },
+                            {
+                                "name": "Ice",
+                                "damage_modifier": 4.0
+                            }
+                        ],
+                        "resistances": [
+                            {
+                                "name": "Fire",
+                                "damage_modifier": 0.5
+                            },
+                            {
+                                "name": "Poison",
+                                "damage_modifier": 0.5
+                            },
+                            {
+                                "name": "Rock",
+                                "damage_modifier": 0.5
+                            }
+                        ],
+                        "immunities": [
+                            "Electric"
+                        ],
+                        "types": [
+                            "Ground",
+                            "Dragon"
+                        ],
+                        "bst": 520,
+                        "nature": {
+                            "name": "Lax",
+                            "lowered_stat_name": "Special Defense",
+                            "raised_stat_name": "Defense",
+                            "neutral_flag": false
+                        },
+                        "raw_stat_values": {
+                            "HP": 281,
+                            "Atk": 153,
+                            "Def": 212,
+                            "Sp. Atk": 227,
+                            "Sp. Def": 229,
+                            "Spe": 184
+                        },
+                        "moves": [
+                            {
+                                "name": "Psybeam",
+                                "pp": 20,
+                                "power": 65,
+                                "accuracy": 100
+                            },
+                            {
+                                "name": "Sacred Fire",
+                                "pp": 5,
+                                "power": 100,
+                                "accuracy": 95
+                            },
+                            {
+                                "name": "Spark",
+                                "pp": 20,
+                                "power": 65,
+                                "accuracy": 100
+                            },
+                            {
+                                "name": "Tail Glow",
+                                "pp": 20,
+                                "power": null,
+                                "accuracy": null
                             }
                         ]
                     }
