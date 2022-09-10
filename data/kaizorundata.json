@@ -2,7 +2,7 @@
     "load_date": "2022-9-9",
     "data": [
         {
-            "game_group_name": "FireRed/LeafGreen",
+            "game_group_name": "Emerald",
             "game_group_record_count": 4,
             "kaizo_runs": [
                 {
@@ -365,8 +365,13 @@
             ]
         },
         {
-            "game_group_name": "Emerald",
-            "game_group_record_count": 122,
+            "game_group_name": "Red/Blue",
+            "game_group_record_count": 1,
+            "kaizo_runs": []
+        },
+        {
+            "game_group_name": "FireRed/LeafGreen",
+            "game_group_record_count": 124,
             "kaizo_runs": [
                 {
                     "id": 2,
@@ -11047,13 +11052,198 @@
                             }
                         ]
                     }
+                },
+                {
+                    "id": 146,
+                    "runner_name": "alesha",
+                    "streamed_flag": "No",
+                    "win_flag": "Yes",
+                    "pokemon": {
+                        "ability_name": "Speed Boost",
+                        "level_at_elite_4": 91,
+                        "is_legendary": false,
+                        "is_mythic": false,
+                        "pokedex_number": 73,
+                        "species": "Tentacruel",
+                        "weaknesses": [
+                            {
+                                "name": "Electric",
+                                "damage_modifier": 2.0
+                            },
+                            {
+                                "name": "Ground",
+                                "damage_modifier": 2.0
+                            },
+                            {
+                                "name": "Psychic",
+                                "damage_modifier": 2.0
+                            }
+                        ],
+                        "resistances": [
+                            {
+                                "name": "Bug",
+                                "damage_modifier": 0.5
+                            },
+                            {
+                                "name": "Fighting",
+                                "damage_modifier": 0.5
+                            },
+                            {
+                                "name": "Fire",
+                                "damage_modifier": 0.5
+                            },
+                            {
+                                "name": "Ice",
+                                "damage_modifier": 0.5
+                            },
+                            {
+                                "name": "Poison",
+                                "damage_modifier": 0.5
+                            },
+                            {
+                                "name": "Steel",
+                                "damage_modifier": 0.5
+                            },
+                            {
+                                "name": "Water",
+                                "damage_modifier": 0.5
+                            }
+                        ],
+                        "immunities": [],
+                        "types": [
+                            "Water",
+                            "Poison"
+                        ],
+                        "bst": 515,
+                        "nature": {
+                            "name": "Naughty",
+                            "lowered_stat_name": "Special Defense",
+                            "raised_stat_name": "Attack",
+                            "neutral_flag": false
+                        },
+                        "raw_stat_values": {
+                            "HP": 335,
+                            "Atk": 193,
+                            "Def": 165,
+                            "Sp. Atk": 252,
+                            "Sp. Def": 205,
+                            "Spe": 111
+                        },
+                        "moves": [
+                            {
+                                "name": "Extrasensory",
+                                "pp": 30,
+                                "power": 80,
+                                "accuracy": 100
+                            },
+                            {
+                                "name": "Feint Attack",
+                                "pp": 20,
+                                "power": 60,
+                                "accuracy": 100
+                            },
+                            {
+                                "name": "High Jump Kick",
+                                "pp": 20,
+                                "power": 85,
+                                "accuracy": 90
+                            },
+                            {
+                                "name": "Ice Beam",
+                                "pp": 10,
+                                "power": 95,
+                                "accuracy": 100
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 147,
+                    "runner_name": "lazydrink",
+                    "streamed_flag": "Yes",
+                    "win_flag": "Yes",
+                    "pokemon": {
+                        "ability_name": "Color Change",
+                        "level_at_elite_4": 92,
+                        "is_legendary": false,
+                        "is_mythic": false,
+                        "pokedex_number": 260,
+                        "species": "Swampert",
+                        "weaknesses": [
+                            {
+                                "name": "Grass",
+                                "damage_modifier": 4.0
+                            }
+                        ],
+                        "resistances": [
+                            {
+                                "name": "Fire",
+                                "damage_modifier": 0.5
+                            },
+                            {
+                                "name": "Poison",
+                                "damage_modifier": 0.5
+                            },
+                            {
+                                "name": "Rock",
+                                "damage_modifier": 0.5
+                            },
+                            {
+                                "name": "Steel",
+                                "damage_modifier": 0.5
+                            }
+                        ],
+                        "immunities": [
+                            "Electric"
+                        ],
+                        "types": [
+                            "Water",
+                            "Ground"
+                        ],
+                        "bst": 535,
+                        "nature": {
+                            "name": "Impish",
+                            "lowered_stat_name": "Special Attack",
+                            "raised_stat_name": "Defense",
+                            "neutral_flag": false
+                        },
+                        "raw_stat_values": {
+                            "HP": 386,
+                            "Atk": 262,
+                            "Def": 139,
+                            "Sp. Atk": 135,
+                            "Sp. Def": 186,
+                            "Spe": 181
+                        },
+                        "moves": [
+                            {
+                                "name": "Bone Club",
+                                "pp": 20,
+                                "power": 65,
+                                "accuracy": 85
+                            },
+                            {
+                                "name": "Brick Break",
+                                "pp": 15,
+                                "power": 75,
+                                "accuracy": 100
+                            },
+                            {
+                                "name": "Shadow Ball",
+                                "pp": 15,
+                                "power": 80,
+                                "accuracy": 100
+                            },
+                            {
+                                "name": "Wing Attack",
+                                "pp": 35,
+                                "power": 60,
+                                "accuracy": 100
+                            }
+                        ]
+                    }
                 }
             ]
-        },
-        {
-            "game_group_name": "FireRed/LeafGreen",
-            "game_group_record_count": 1,
-            "kaizo_runs": []
         }
     ]
 }
