@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Kaizo Ironmon Run Submission</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="jquery-3.6.3.min.js"></script>
+</head>
+<body>
+    <h1>Kaizo E4 Run Submission</h1>
+    <form action="newrecord.php" method="post" name="submissionForm">
+    <div id="runinfo">
+        <fieldset>
+            <legend>
+                Run & runner info
+            </legend>
+        <p>
+            <label for="e4-radio">Runner Name: </label>
+            <input id="runnername-text" type="text" name="runnername">
+            <br />
+            <p>
+                <legend>Was the run streamed?</legend>
+            </p>
+            <p>
+                <input id="streamed-radio-yes" type="radio" name="streamed" value="true"><label for="streamed-radio-yes">Yes</label>
+                <input id="streamed-radio-partial" type="radio" name="streamed" value="true"><label for="streamed-radio-partial">Partially</label>
+                <input id="streamed-radio-no" type="radio" name="streamed" value="false"><label for="streamed-radio-no">No</label><br>
+            </p>
+            <label for="e4-radio">Game Name: </label>
+            <select id="game-dropdown" name="game"></select>
+            <br />
+        </p>
+    </fieldset>
+    </div>
+    <div id="pokemoninfo">
+        <fieldset>
+            <legend>
+                Pokemon level, ability, nature, and moves
+            </legend>
+            <select id="pokemon-dropdown" name="pokemon"></select> <br />
+            <select id="ability-dropdown" name="ability"></select> <br />
+            <p>
+                <select id="move-dropdown1" name="move1"></select> <br />
+                <select id="move-dropdown2" name="move2"></select> <br />
+                <select id="move-dropdown3" name="move3"></select> <br />
+                <select id="move-dropdown4" name="move4"></select> <br />
+                <select id="nature-dropdown" name="nature"></select> <br />
+            </p>
+        </fieldset>
+        <fieldset>
+            <legend>
+                Pokemon Stats
+            </legend>
+            <label for="hp">HP: </label> <br /><input id="hp-number" name="hp" type="number" min="1" max="700" size="4"> <br />
+            <label for="atk">Attack: </label> <br /><input id="atk-number" name="atk" type="number" min="1" max="700" size="4"> <br />
+            <label for="def">Defense: </label> <br /><input id="def-number" name="def" type="number" min="1" max="700" size="4"> <br />
+            <label for="spatk">Special Attack: </label> <br /><input id="spatk-number" name="spatk" type="number" min="1" max="700" size="4"> <br />
+            <label for="spdef">Special Defense: </label> <br /><input id="spdef-number" name="spdef" type="number" min="1" max="700" size="4"> <br />
+            <label for="speed">Speed: </label> <br /><input id="e4level-number" name="speed" type="number" min="1" max="700" size="4"> <br />
+            <label for="statslevel">Level when stats were recorded: </label> <br /><input id="statslevel-number" name="statslevel" type="number" min="1" max="100" size="4"> <br />
+        </fieldset>
+        <p>
+            <legend id="gymleader">Did the run reach the first gym leader?</legend><!-- Need to populate this field with "totem" or "kahunas" or whatever -->
+        </p>
+        <p>
+            <input id="firstgym-yes" type="radio" name="firstgym" value="true"><label for="firstgym-yes">Yes</label>
+            <input id="firstgym-no" type="radio" name="firstgym" value="false"><label for="firstgym-no">No</label> <br>
+        </p>
+        <div id="badgeinfo" class="badgeinfo">
+        <fieldset>
+            <legend>
+                Badge Info <!-- Need to populate this field with the correct text for other gens -- also is it possible to change the min and max depending on gen? -->
+            </legend>
+            <label id="badgelabel" for="badgecount">Number of badges:</label> <br /><input id="badgecount-number" name="badgecount" type="number" min="0" max="16" size="4"> <br />
+        </fieldset>
+        </div>
+        <p>
+            <label id="e4label" for="e4">Did the run reach the Elite 4?</label>
+        </p>
+        <p>
+            <input id="e4-yes" type="radio" name="e4" value="true"><label for="e4-yes">Yes</label>
+            <input id="e4-no" type="radio" name="e4" value="false"><label for="e4-no">No</label> <br>
+        </p>
+        <div id="e4info" class="e4info">
+        <fieldset>
+            <legend>
+                Elite 4/Win Info
+            </legend>
+            <label for="hp">Level when entering Elite 4: </label> <br /><input id="e4level" name="e4-number" type="number" min="60" max="100" size="4"> <br />
+        <p>
+            <legend>Did the run win?</legend>
+        </p>
+        <p>
+            <input id="win-radio-yes" type="radio" name="win" value="true"><label id="win-yes" for="win-radio-yes">Yes</label>
+            <input id="win-radio-no" type="radio" name="win" value="false"><label id="win-no" for="win-radio-no">No</label><br>
+        </p>
+        </fieldset>
+        </div>
+        <input type="submit" value="Submit Run">
+    </form>
+    </div>
+</body>
+<script src="populate.js"></script>
+<script src="putjson.js"></script>
+</html>

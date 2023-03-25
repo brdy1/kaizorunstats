@@ -1,0 +1,19 @@
+#pokemoninfo {
+    display: none;
+}
+
+#nature-dropdown {
+    display: none;
+}
+
+.e4info {
+    display: block;
+}
+.badgeinfo {
+    display: block;
+}
+
+form  { display: table;      }
+p     { display: table-row;  }
+input { display: table-cell; }
+select { display: table-cell; }
