@@ -23,7 +23,7 @@ gamedefaultOption.text = '--Choose a Game--';
 gamedropdown.add(gamedefaultOption);
 gamedropdown.selectedIndex = 0;
 
-const baseurl = 'https://raw.githubusercontent.com/brdy1/kaizorunstats/main/data/submit/';
+const baseurl = 'https://raw.githubusercontent.com/brdy1/kaizorunstats/main/submit/data/';
 let gamesfile = 'games.json';
 const gamerequest = new XMLHttpRequest();
 gamerequest.open('GET', baseurl.concat(gamesfile), true);
