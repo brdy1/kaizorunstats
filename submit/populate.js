@@ -119,9 +119,15 @@ document.getElementById("game-dropdown").onchange = function() {
     if (thisgeneration > 1) {
         document.getElementById("nature-dropdown").style.display = "block";
         document.getElementById("ability-dropdown").style.display = "block";
+        document.getElementById("label-spatk").textContent = "SpAtk:";
+        document.getElementById("label-spdef").style.display = "inline-block";
+        document.getElementById("spdef-number").style.display = "inline-block";
     } else {
         document.getElementById("nature-dropdown").style.display = "none";
         document.getElementById("ability-dropdown").style.display = "none";
+        document.getElementById("label-spatk").textContent = "Special:";
+        document.getElementById("label-spdef").style.display = "none";
+        document.getElementById("spdef-number").style.display = "none";
     }
  };
 
@@ -136,8 +142,9 @@ function populatePokemon(thisgeneration) {
     pokemondefaultOption.text = '--Choose a Pokemon--';
     pokemondefaultOption.value = -1;
 
-    pokemondropdown.add(pokemondefaultOption);
     pokemondropdown.selectedIndex = 0;
+
+    pokemondropdown.add(pokemondefaultOption);
 
     let pokemonfile = 'pokemon.json';
     const pokemonrequest = new XMLHttpRequest();
@@ -177,7 +184,6 @@ function populateAbilities(thisgeneration) {
 
     let abilitydefaultOption = document.createElement('option');
     abilitydefaultOption.text = '--Choose an Ability--';
-    abilitydefaultOption.value = -1;
 
     abilitydropdown.add(abilitydefaultOption);
     abilitydropdown.selectedIndex = 0;
@@ -231,25 +237,29 @@ function populateMoves(thisgeneration) {
     movedropdown4.length = 0;
     
     let movedefaultOption1 = document.createElement('option');
+    movedefaultOption1.value = -1;
     movedefaultOption1.text = '--Choose Move 1--';
     
     let movedefaultOption2 = document.createElement('option');
+    movedefaultOption2.value = -1;
     movedefaultOption2.text = '--Choose Move 2--';
     
     let movedefaultOption3 = document.createElement('option');
+    movedefaultOption3.value = -1;
     movedefaultOption3.text = '--Choose Move 3--';
     
     let movedefaultOption4 = document.createElement('option');
+    movedefaultOption4.value = -1;
     movedefaultOption4.text = '--Choose Move 4--';
     
-    movedropdown1.add(movedefaultOption1);
     movedropdown1.selectedIndex = 0;
-    movedropdown2.add(movedefaultOption2);
+    movedropdown1.add(movedefaultOption1);
     movedropdown2.selectedIndex = 0;
-    movedropdown3.add(movedefaultOption3);
+    movedropdown2.add(movedefaultOption2);
     movedropdown3.selectedIndex = 0;
-    movedropdown4.add(movedefaultOption4);
+    movedropdown3.add(movedefaultOption3);
     movedropdown4.selectedIndex = 0;
+    movedropdown4.add(movedefaultOption4);
 
     let movefile = 'moves.json';
     const moverequest = new XMLHttpRequest();
@@ -264,27 +274,28 @@ function populateMoves(thisgeneration) {
         let option4;
         for (let i = 0; i < data.length; i++) {
 
-          option1 = document.createElement('option');
-          option1.generation = data[i].generationid;
-          option1.text = data[i].movename;
-          option1.value = data[i].moveid;
 
-          option2 = document.createElement('option');
-          option2.generation = data[i].generationid;
-          option2.text = data[i].movename;
-          option2.value = data[i].moveid;
-          
-          option3 = document.createElement('option');
-          option3.generation = data[i].generationid;
-          option3.text = data[i].movename;
-          option3.value = data[i].moveid;
-          
-          option4 = document.createElement('option');
-          option4.generation = data[i].generationid;
-          option4.text = data[i].movename;
-          option4.value = data[i].moveid;
+          if (data[i].generationid <= thisgeneration) {            
+            option1 = document.createElement('option');
+            option1.generation = data[i].generationid;
+            option1.text = data[i].movename;
+            option1.value = data[i].moveid;
 
-          if (option1.generation == thisgeneration) {
+            option2 = document.createElement('option');
+            option2.generation = data[i].generationid;
+            option2.text = data[i].movename;
+            option2.value = data[i].moveid;
+            
+            option3 = document.createElement('option');
+            option3.generation = data[i].generationid;
+            option3.text = data[i].movename;
+            option3.value = data[i].moveid;
+            
+            option4 = document.createElement('option');
+            option4.generation = data[i].generationid;
+            option4.text = data[i].movename;
+            option4.value = data[i].moveid;
+            
             movedropdown1.add(option1);
             movedropdown2.add(option2);
             movedropdown3.add(option3);
